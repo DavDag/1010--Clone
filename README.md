@@ -1,7 +1,7 @@
 # 1010-Clone
 I made this 1010! clone in under a week in C++ with SFML library
 
-## Functions
+## Functionalities
   * More colors!
   * All kind of tiles.
   * HighScore!
